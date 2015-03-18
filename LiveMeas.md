@@ -1,0 +1,15 @@
+## Room Temperature ##
+| **last day** | **last week** | **last month** | **last 3 month** |
+|:-------------|:--------------|:---------------|:-----------------|
+| https://api.cosm.com/v2/feeds/129529/datastreams/0.png?width=600&height=400&colour=%23000000&duration=1day&legend=C&stroke_size=1&show_axis_labels=true&detailed_grid=true&scale=auto&timezone=UTC | https://api.cosm.com/v2/feeds/129529/datastreams/0.png?width=600&height=400&colour=%23000000&duration=1week&legend=C&stroke_size=1&show_axis_labels=true&detailed_grid=true&scale=auto&timezone=UTC | https://api.cosm.com/v2/feeds/129529/datastreams/0.png?width=600&height=400&colour=%23000000&duration=1month&legend=C&stroke_size=1&show_axis_labels=true&detailed_grid=true&scale=auto&timezone=UTC | https://api.cosm.com/v2/feeds/129529/datastreams/0.png?width=600&height=400&colour=%23000000&duration=3month&legend=C&stroke_size=1&show_axis_labels=true&detailed_grid=true&scale=auto&timezone=UTC |
+
+## Air Pressure ##
+| **last day** | **last week** | **last month** | **last 3 month** |
+|:-------------|:--------------|:---------------|:-----------------|
+| https://api.cosm.com/v2/feeds/129529/datastreams/4.png?width=600&height=400&colour=%23000000&duration=1day&legend=Pa&stroke_size=1&show_axis_labels=true&detailed_grid=true&scale=auto&timezone=UTC | https://api.cosm.com/v2/feeds/129529/datastreams/4.png?width=600&height=400&colour=%23000000&duration=1week&legend=Pa&stroke_size=1&show_axis_labels=true&detailed_grid=true&scale=auto&timezone=UTC | https://api.cosm.com/v2/feeds/129529/datastreams/4.png?width=600&height=400&colour=%23000000&duration=1month&legend=Pa&stroke_size=1&show_axis_labels=true&detailed_grid=true&scale=auto&timezone=UTC | https://api.cosm.com/v2/feeds/129529/datastreams/4.png?width=600&height=400&colour=%23000000&duration=3month&legend=Pa&stroke_size=1&show_axis_labels=true&detailed_grid=true&scale=auto&timezone=UTC |
+
+
+## Background Radiation ##
+| **last day** | **last week** | **last month** | **last 3 month** |
+|:-------------|:--------------|:---------------|:-----------------|
+| https://api.cosm.com/v2/feeds/129529/datastreams/10.png?width=600&height=400&colour=%23000000&duration=1day&legend=uSv%3Ah&stroke_size=1&show_axis_labels=true&detailed_grid=true&scale=auto&timezone=UTC | https://api.cosm.com/v2/feeds/129529/datastreams/10.png?width=600&height=400&colour=%23000000&duration=1week&legend=uSv%3Ah&stroke_size=1&show_axis_labels=true&detailed_grid=true&scale=auto&timezone=UTC | https://api.cosm.com/v2/feeds/129529/datastreams/10.png?width=600&height=400&colour=%23000000&duration=1month&legend=uSv%3Ah&stroke_size=1&show_axis_labels=true&detailed_grid=true&scale=auto&timezone=UTC | https://api.cosm.com/v2/feeds/129529/datastreams/10.png?width=600&height=400&colour=%23000000&duration=3month&legend=uSv%3Ah&stroke_size=1&show_axis_labels=true&detailed_grid=true&scale=auto&timezone=UTC |
