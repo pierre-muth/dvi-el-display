@@ -1,0 +1,305 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'output_proc_2:inst1|clockPix'
+Slack : -5.306
+TNS   : -274.513
+
+Type  : Slow 1200mV 85C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -4.486
+TNS   : -4.639
+
+Type  : Slow 1200mV 85C Model Setup 'GPIO0_IN[1]'
+Slack : -3.634
+TNS   : -106.105
+
+Type  : Slow 1200mV 85C Model Setup 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -2.695
+TNS   : -86.970
+
+Type  : Slow 1200mV 85C Model Setup 'input_proc_6:inst7|wrPix'
+Slack : -2.096
+TNS   : -179.203
+
+Type  : Slow 1200mV 85C Model Setup 'output_proc_2:inst1|rdPix'
+Slack : -1.827
+TNS   : -102.664
+
+Type  : Slow 1200mV 85C Model Setup 'GPIO011'
+Slack : -0.975
+TNS   : -7.082
+
+Type  : Slow 1200mV 85C Model Setup 'output_proc_2:inst1|counterY[0]'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'input_proc_6:inst7|wrPix'
+Slack : -1.382
+TNS   : -40.498
+
+Type  : Slow 1200mV 85C Model Hold 'output_proc_2:inst1|clockPix'
+Slack : -1.060
+TNS   : -9.383
+
+Type  : Slow 1200mV 85C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.090
+TNS   : -0.090
+
+Type  : Slow 1200mV 85C Model Hold 'output_proc_2:inst1|rdPix'
+Slack : 0.313
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'GPIO011'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'output_proc_2:inst1|counterY[0]'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.542
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'GPIO0_IN[1]'
+Slack : 0.664
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'GPIO011'
+Slack : -3.000
+TNS   : -14.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'input_proc_6:inst7|wrPix'
+Slack : -2.174
+TNS   : -208.704
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'output_proc_2:inst1|rdPix'
+Slack : -2.174
+TNS   : -143.136
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'output_proc_2:inst1|clockPix'
+Slack : -1.000
+TNS   : -76.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'output_proc_2:inst1|counterY[0]'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.747
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.589
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'GPIO0_IN[1]'
+Slack : 39.266
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 124.748
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'output_proc_2:inst1|clockPix'
+Slack : -4.765
+TNS   : -241.750
+
+Type  : Slow 1200mV 0C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -3.908
+TNS   : -3.936
+
+Type  : Slow 1200mV 0C Model Setup 'GPIO0_IN[1]'
+Slack : -3.241
+TNS   : -97.119
+
+Type  : Slow 1200mV 0C Model Setup 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -2.418
+TNS   : -78.670
+
+Type  : Slow 1200mV 0C Model Setup 'input_proc_6:inst7|wrPix'
+Slack : -1.881
+TNS   : -161.941
+
+Type  : Slow 1200mV 0C Model Setup 'output_proc_2:inst1|rdPix'
+Slack : -1.512
+TNS   : -86.006
+
+Type  : Slow 1200mV 0C Model Setup 'GPIO011'
+Slack : -0.758
+TNS   : -5.192
+
+Type  : Slow 1200mV 0C Model Setup 'output_proc_2:inst1|counterY[0]'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'input_proc_6:inst7|wrPix'
+Slack : -1.140
+TNS   : -32.927
+
+Type  : Slow 1200mV 0C Model Hold 'output_proc_2:inst1|clockPix'
+Slack : -0.924
+TNS   : -8.328
+
+Type  : Slow 1200mV 0C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.156
+TNS   : -0.156
+
+Type  : Slow 1200mV 0C Model Hold 'output_proc_2:inst1|rdPix'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'GPIO011'
+Slack : 0.320
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'output_proc_2:inst1|counterY[0]'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.487
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'GPIO0_IN[1]'
+Slack : 0.663
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'GPIO011'
+Slack : -3.000
+TNS   : -14.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'input_proc_6:inst7|wrPix'
+Slack : -2.174
+TNS   : -208.704
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'output_proc_2:inst1|rdPix'
+Slack : -2.174
+TNS   : -143.136
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'output_proc_2:inst1|clockPix'
+Slack : -1.000
+TNS   : -76.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'output_proc_2:inst1|counterY[0]'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.709
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.586
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'GPIO0_IN[1]'
+Slack : 39.275
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 124.744
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'output_proc_2:inst1|clockPix'
+Slack : -2.867
+TNS   : -133.912
+
+Type  : Fast 1200mV 0C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -2.524
+TNS   : -2.551
+
+Type  : Fast 1200mV 0C Model Setup 'GPIO0_IN[1]'
+Slack : -2.469
+TNS   : -86.984
+
+Type  : Fast 1200mV 0C Model Setup 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -2.013
+TNS   : -66.916
+
+Type  : Fast 1200mV 0C Model Setup 'input_proc_6:inst7|wrPix'
+Slack : -1.248
+TNS   : -98.354
+
+Type  : Fast 1200mV 0C Model Setup 'output_proc_2:inst1|rdPix'
+Slack : -0.673
+TNS   : -23.931
+
+Type  : Fast 1200mV 0C Model Setup 'GPIO011'
+Slack : -0.095
+TNS   : -0.188
+
+Type  : Fast 1200mV 0C Model Setup 'output_proc_2:inst1|counterY[0]'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'input_proc_6:inst7|wrPix'
+Slack : -0.985
+TNS   : -29.931
+
+Type  : Fast 1200mV 0C Model Hold 'output_proc_2:inst1|clockPix'
+Slack : -0.700
+TNS   : -6.451
+
+Type  : Fast 1200mV 0C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.021
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'output_proc_2:inst1|rdPix'
+Slack : 0.131
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'GPIO011'
+Slack : 0.192
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'output_proc_2:inst1|counterY[0]'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'GPIO0_IN[1]'
+Slack : 0.258
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.288
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'GPIO011'
+Slack : -3.000
+TNS   : -17.652
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'input_proc_6:inst7|wrPix'
+Slack : -1.000
+TNS   : -96.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'output_proc_2:inst1|clockPix'
+Slack : -1.000
+TNS   : -76.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'output_proc_2:inst1|rdPix'
+Slack : -1.000
+TNS   : -68.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'output_proc_2:inst1|counterY[0]'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.416
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst6|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.622
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'GPIO0_IN[1]'
+Slack : 38.927
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 124.774
+TNS   : 0.000
+
+------------------------------------------------------------

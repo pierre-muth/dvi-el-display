@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu May 15 15:39:58 2014
+Quartus II 32-bit Version : 12.0 Build 263 08/02/2012 SP 2 SJ Web Edition
+Revision Name : screen03
+Top-level Entity Name : screen03
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 508 / 22,320 ( 2 % )
+    Total combinational functions : 484 / 22,320 ( 2 % )
+    Dedicated logic registers : 193 / 22,320 ( < 1 % )
+Total registers : 193
+Total pins : 36 / 154 ( 23 % )
+Total virtual pins : 0
+Total memory bits : 262,144 / 608,256 ( 43 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 2 / 4 ( 50 % )

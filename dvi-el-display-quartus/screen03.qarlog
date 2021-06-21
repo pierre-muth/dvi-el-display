@@ -1,0 +1,84 @@
+Quartus II Archive log --	C:/dev/FPGA/screen03/screen03.qarlog
+
+Archive:	C:/dev/FPGA/screen03/screen03.qar
+Date:		Sun Mar 10 09:55:23 2013
+Quartus II 32-bit		12.0 Build 263 08/02/2012 SP 2 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/dev/FPGA/screen03/address_scanner.v
+C:/dev/FPGA/screen03/altpll0.bsf
+C:/dev/FPGA/screen03/altpll0.ppf
+C:/dev/FPGA/screen03/altpll0.qip
+C:/dev/FPGA/screen03/altpll0.v
+C:/dev/FPGA/screen03/altpll0_bb.v
+C:/dev/FPGA/screen03/divider.v
+C:/dev/FPGA/screen03/export_db/screen03.archive.qmsg
+C:/dev/FPGA/screen03/export_db/screen03.asm.qmsg
+C:/dev/FPGA/screen03/export_db/screen03.cmp.atm
+C:/dev/FPGA/screen03/export_db/screen03.cmp.bpm
+C:/dev/FPGA/screen03/export_db/screen03.cmp.eco2
+C:/dev/FPGA/screen03/export_db/screen03.cmp.hdbx
+C:/dev/FPGA/screen03/export_db/screen03.cmp.kpt
+C:/dev/FPGA/screen03/export_db/screen03.cmp.logdb
+C:/dev/FPGA/screen03/export_db/screen03.cmp.rcf
+C:/dev/FPGA/screen03/export_db/screen03.cmp.sci
+C:/dev/FPGA/screen03/export_db/screen03.cmp.scidsc
+C:/dev/FPGA/screen03/export_db/screen03.cmp.xml
+C:/dev/FPGA/screen03/export_db/screen03.cmp_merge.kpt
+C:/dev/FPGA/screen03/export_db/screen03.db_export.qmsg
+C:/dev/FPGA/screen03/export_db/screen03.db_info
+C:/dev/FPGA/screen03/export_db/screen03.eda.qmsg
+C:/dev/FPGA/screen03/export_db/screen03.export_db_files
+C:/dev/FPGA/screen03/export_db/screen03.export_db_post_map_files
+C:/dev/FPGA/screen03/export_db/screen03.export_db_report_files
+C:/dev/FPGA/screen03/export_db/screen03.fit.qmsg
+C:/dev/FPGA/screen03/export_db/screen03.hier_info
+C:/dev/FPGA/screen03/export_db/screen03.map.atm
+C:/dev/FPGA/screen03/export_db/screen03.map.bpm
+C:/dev/FPGA/screen03/export_db/screen03.map.hdbx
+C:/dev/FPGA/screen03/export_db/screen03.map.kpt
+C:/dev/FPGA/screen03/export_db/screen03.map.logdb
+C:/dev/FPGA/screen03/export_db/screen03.map.qmsg
+C:/dev/FPGA/screen03/export_db/screen03.map.sci
+C:/dev/FPGA/screen03/export_db/screen03.map.scidsc
+C:/dev/FPGA/screen03/export_db/screen03.map_bb.atm
+C:/dev/FPGA/screen03/export_db/screen03.map_bb.hdbx
+C:/dev/FPGA/screen03/export_db/screen03.map_bb.logdb
+C:/dev/FPGA/screen03/export_db/screen03.map_bb.sci
+C:/dev/FPGA/screen03/export_db/screen03.map_bb.scidsc
+C:/dev/FPGA/screen03/export_db/screen03.pre_map.hdbx
+C:/dev/FPGA/screen03/export_db/screen03.root_partition.cmp.atm
+C:/dev/FPGA/screen03/export_db/screen03.root_partition.cmp.dfp
+C:/dev/FPGA/screen03/export_db/screen03.root_partition.cmp.hdbx
+C:/dev/FPGA/screen03/export_db/screen03.root_partition.cmp.kpt
+C:/dev/FPGA/screen03/export_db/screen03.root_partition.cmp.logdb
+C:/dev/FPGA/screen03/export_db/screen03.root_partition.cmp.rcf
+C:/dev/FPGA/screen03/export_db/screen03.root_partition.map.atm
+C:/dev/FPGA/screen03/export_db/screen03.root_partition.map.dpi
+C:/dev/FPGA/screen03/export_db/screen03.root_partition.map.hbdb.atm
+C:/dev/FPGA/screen03/export_db/screen03.root_partition.map.hbdb.hb_info
+C:/dev/FPGA/screen03/export_db/screen03.root_partition.map.hbdb.hdbx
+C:/dev/FPGA/screen03/export_db/screen03.root_partition.map.hbdb.sig
+C:/dev/FPGA/screen03/export_db/screen03.root_partition.map.hdbx
+C:/dev/FPGA/screen03/export_db/screen03.root_partition.map.kpt
+C:/dev/FPGA/screen03/export_db/screen03.sta.qmsg
+C:/dev/FPGA/screen03/export_db/screen03.syn_hier_info
+C:/dev/FPGA/screen03/half_tone_gen.v
+C:/dev/FPGA/screen03/incremental_db/compiled_partitions/screen03.db_info
+C:/dev/FPGA/screen03/input_proc.v
+C:/dev/FPGA/screen03/mem.hex
+C:/dev/FPGA/screen03/output_proc.v
+C:/dev/FPGA/screen03/pixel_gen.v
+C:/dev/FPGA/screen03/screen03.bdf
+C:/dev/FPGA/screen03/screen03.qpf
+C:/dev/FPGA/screen03/screen03.qsf
+C:/dev/FPGA/screen03/screen_buffer.bsf
+C:/dev/FPGA/screen03/screen_buffer.qip
+C:/dev/FPGA/screen03/screen_buffer.v
+C:/dev/FPGA/screen03/screen_buffer_bb.v
+C:/dev/FPGA/screen03/timing_gen.v
+c:/altera/12.0sp2/quartus/bin/assignment_defaults.qdf
+	======= Total: 73 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

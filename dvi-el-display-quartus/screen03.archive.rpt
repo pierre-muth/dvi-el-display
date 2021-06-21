@@ -1,0 +1,159 @@
+Archive Project report for screen03
+Sun Mar 10 09:55:23 2013
+Quartus II 32-bit Version 12.0 Build 263 08/02/2012 Service Pack 2 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2012 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Sun Mar 10 09:55:23 2013 ;
+; Revision Name          ; screen03                              ;
+; Top-level Entity Name  ; screen03                              ;
+; Family                 ; Cyclone IV E                          ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: Running Export Database to generate version compatible database
+Info: *******************************************************************
+Info: Running Quartus II 32-bit Database Export
+    Info: Version 12.0 Build 263 08/02/2012 Service Pack 2 SJ Web Edition
+    Info: Processing started: Sun Mar 10 09:55:20 2013
+Info: Command: quartus_cdb screen03 -c screen03 --export_database=export_db
+Info (39038): Successfully exported the post-synthesis black-box database
+Info (39038): Successfully exported the post-synthesis database
+Info (39038): Successfully exported the post-fitter database
+Info: Quartus II 32-bit Database Export was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 293 megabytes
+    Info: Processing ended: Sun Mar 10 09:55:22 2013
+    Info: Elapsed time: 00:00:02
+    Info: Total CPU time (on all processors): 00:00:02
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/dev/FPGA/screen03/screen03.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'screen03.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/altera/12.0sp2/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 32-bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 203 megabytes
+    Info: Processing ended: Sun Mar 10 09:55:23 2013
+    Info: Elapsed time: 00:00:05
+    Info: Total CPU time (on all processors): 00:00:03
+
+
++-------------------------------------------------------+
+; Files Archived                                        ;
++-------------------------------------------------------+
+; File Name                                             ;
++-------------------------------------------------------+
+; address_scanner.v                                     ;
+; altpll0.bsf                                           ;
+; altpll0.ppf                                           ;
+; altpll0.qip                                           ;
+; altpll0.v                                             ;
+; altpll0_bb.v                                          ;
+; c:/altera/12.0sp2/quartus/bin/assignment_defaults.qdf ;
+; divider.v                                             ;
+; export_db/screen03.archive.qmsg                       ;
+; export_db/screen03.asm.qmsg                           ;
+; export_db/screen03.cmp.atm                            ;
+; export_db/screen03.cmp.bpm                            ;
+; export_db/screen03.cmp.eco2                           ;
+; export_db/screen03.cmp.hdbx                           ;
+; export_db/screen03.cmp.kpt                            ;
+; export_db/screen03.cmp.logdb                          ;
+; export_db/screen03.cmp.rcf                            ;
+; export_db/screen03.cmp.sci                            ;
+; export_db/screen03.cmp.scidsc                         ;
+; export_db/screen03.cmp.xml                            ;
+; export_db/screen03.cmp_merge.kpt                      ;
+; export_db/screen03.db_export.qmsg                     ;
+; export_db/screen03.db_info                            ;
+; export_db/screen03.eda.qmsg                           ;
+; export_db/screen03.export_db_files                    ;
+; export_db/screen03.export_db_post_map_files           ;
+; export_db/screen03.export_db_report_files             ;
+; export_db/screen03.fit.qmsg                           ;
+; export_db/screen03.hier_info                          ;
+; export_db/screen03.map.atm                            ;
+; export_db/screen03.map.bpm                            ;
+; export_db/screen03.map.hdbx                           ;
+; export_db/screen03.map.kpt                            ;
+; export_db/screen03.map.logdb                          ;
+; export_db/screen03.map.qmsg                           ;
+; export_db/screen03.map.sci                            ;
+; export_db/screen03.map.scidsc                         ;
+; export_db/screen03.map_bb.atm                         ;
+; export_db/screen03.map_bb.hdbx                        ;
+; export_db/screen03.map_bb.logdb                       ;
+; export_db/screen03.map_bb.sci                         ;
+; export_db/screen03.map_bb.scidsc                      ;
+; export_db/screen03.pre_map.hdbx                       ;
+; export_db/screen03.root_partition.cmp.atm             ;
+; export_db/screen03.root_partition.cmp.dfp             ;
+; export_db/screen03.root_partition.cmp.hdbx            ;
+; export_db/screen03.root_partition.cmp.kpt             ;
+; export_db/screen03.root_partition.cmp.logdb           ;
+; export_db/screen03.root_partition.cmp.rcf             ;
+; export_db/screen03.root_partition.map.atm             ;
+; export_db/screen03.root_partition.map.dpi             ;
+; export_db/screen03.root_partition.map.hbdb.atm        ;
+; export_db/screen03.root_partition.map.hbdb.hb_info    ;
+; export_db/screen03.root_partition.map.hbdb.hdbx       ;
+; export_db/screen03.root_partition.map.hbdb.sig        ;
+; export_db/screen03.root_partition.map.hdbx            ;
+; export_db/screen03.root_partition.map.kpt             ;
+; export_db/screen03.sta.qmsg                           ;
+; export_db/screen03.syn_hier_info                      ;
+; half_tone_gen.v                                       ;
+; incremental_db/compiled_partitions/screen03.db_info   ;
+; input_proc.v                                          ;
+; mem.hex                                               ;
+; output_proc.v                                         ;
+; pixel_gen.v                                           ;
+; screen03.bdf                                          ;
+; screen03.qpf                                          ;
+; screen03.qsf                                          ;
+; screen_buffer.bsf                                     ;
+; screen_buffer.qip                                     ;
+; screen_buffer.v                                       ;
+; screen_buffer_bb.v                                    ;
+; timing_gen.v                                          ;
++-------------------------------------------------------+
+
+
